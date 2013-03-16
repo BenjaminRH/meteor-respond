@@ -1,0 +1,3 @@
+[submodule "lib/respond"]
+	path = lib/respond
+	url = https://github.com/scottjehl/Respond.git

@@ -1,0 +1,9 @@
+{
+	"name": "respond",
+	"description": "Respond.js packaged for Meteor.",
+	"homepage": "https://github.com/BenjaminRH/meteor-respond",
+	"author": "Benjamin Harris  (http://benjaminrharris.com)",
+	"version": "0.1.0",
+	"git": "https://github.com/BenjaminRH/meteor-respond.git",
+	"packages": {}
+}
