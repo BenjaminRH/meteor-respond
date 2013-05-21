@@ -1,4 +1,5 @@
 ##Respond.js - Meteor Smart Package
+[![endorse](https://api.coderwall.com/benjaminrh/endorsecount.png)](https://coderwall.com/benjaminrh)
 
 [Respond.js](https://github.com/scottjehl/Respond) packaged for Meteor.
 
